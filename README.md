@@ -1,12 +1,13 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: GURUMOORTHI R</h3>
+<h3>Name:GURUMOORTHI R</h3>
 <h3>Register Number: 212222230042</h3>
+<h3>Date: 13-03-2024</h3>
 <H3>Aim:</H3>
-<p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
+<p>To Implement A * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
 
 ``````
-// A* Search Algorithm
+A* Search Algorithm
 1.  Initialize the open list
 2.  Initialize the closed list
     put the starting node on the open 
